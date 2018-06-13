@@ -1,0 +1,8 @@
+*.checked
+*.lock
+*.swp
+.*.ok
+.*.tok
+.*.yok
+.DS_Store
+.vscode/
